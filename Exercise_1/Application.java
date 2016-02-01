@@ -3,6 +3,8 @@ Nama 	: Kevin Prakarsa B R
 NIM  	: 1301144169
 Kelas	: IF-38-09 
 */
+
+import java.util.Scanner;
 	 
 public class Application {
  private String AppName;
